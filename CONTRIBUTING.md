@@ -1,26 +1,28 @@
-# Welcome to Scaffold-ETH 2 Contributing Guide
 
-Thank you for investing your time in contributing to Scaffold-ETH 2!
+# Welcome to ERC-3643-DApp Contributing Guide
+
+Thank you for investing your time in contributing to the ERC-3643-DApp!
 
 This guide aims to provide an overview of the contribution workflow to help us make the contribution process effective for everyone involved.
 
 ## About the Project
 
-Scaffold-ETH 2 is a minimal and forkable repo providing builders with a starter kit to build decentralized applications on Ethereum.
+ERC-3643-DApp is an open-source project initiated by the ERC-3643 association. It aims to promote the use of the ERC-3643 standard for tokenized assets by providing a robust and scalable decentralized application.
 
 Read the [README](README.md) to get an overview of the project.
 
 ### Vision
 
-The goal of Scaffold-ETH 2 is to provide the primary building blocks for a decentralized application.
+The goal of ERC-3643-DApp is to foster the adoption of the ERC-3643 standard, making it the go-to solution for 
+tokenized assets on EVM blockchains.
 
-The repo can be forked to include integrations and more features, but we want to keep the master branch simple and minimal.
+We aim to create a platform that is user-friendly, secure, and adaptable to various use cases related to tokenized assets.
 
 ### Project Status
 
 The project is under active development.
 
-You can view the open Issues, follow the development process and contribute to the project.
+You can view the open Issues, follow the development process, and contribute to the project.
 
 ## Getting started
 
@@ -29,6 +31,7 @@ You can contribute to this repo in many ways:
 - Solve open issues
 - Report bugs or feature requests
 - Improve the documentation
+- Advocate for the ERC-3643 standard in the community
 
 Contributions are made via Issues and Pull Requests (PRs). A few general guidelines for contributions:
 
@@ -44,7 +47,7 @@ Issues should be used to report problems, request a new feature, or discuss pote
 
 #### Solve an issue
 
-Scan through our [existing issues](https://github.com/scaffold-eth/scaffold-eth-2/issues) to find one that interests you.
+Scan through our [existing issues](https://github.com/ERC-3643/ERC-3643-DApp/issues) to find one that interests you.
 
 If a contributor is working on the issue, they will be assigned to the individual. If you find an issue to work on, you are welcome to assign it to yourself and open a PR with a fix for it.
 
@@ -80,7 +83,9 @@ Here are some tips for a high-quality pull request:
 
 Once you submit your PR:
 
-- We may ask questions, request additional information or ask for changes to be made before a PR can be merged. Please note that these are to make the PR clear for everyone involved and aims to create a frictionless interaction process.
+- We may ask questions, request additional information, or ask for changes to be made before a PR can be merged. Please note that these are to make the PR clear for everyone involved and aims to create a frictionless interaction process.
 - As you update your PR and apply changes, mark each conversation resolved.
 
 Once the PR is approved, we'll "squash-and-merge" to keep the git commit history clean.
+
+---
